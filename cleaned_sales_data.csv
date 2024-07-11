@@ -1,0 +1,1001 @@
+Date,Product_ID,Product_Name,Category,Sales_Amount,Quantity_Sold,Store_Location,Customer_Age
+2024-04-03,1002,Gadget B,Electronics,217.58,1,Chicago,64
+2024-03-09,1014,Doohickey N,Home Goods,218.86,5,Houston,47
+2023-10-13,1007,Gadget G,Toys,234.86,1,Chicago,28
+2023-09-22,1014,Doohickey N,Home Goods,152.96,4,New York,26
+2023-12-09,1012,Gadget L,Electronics,212.5,3,Chicago,41
+2023-09-25,1003,Thingamajig C,Home Goods,79.8,5,Houston,40
+2024-04-10,1002,Gadget B,Electronics,172.5,3,Chicago,49
+2023-07-16,1001,Widget A,Electronics,288.87,2,Los Angeles,27
+2024-06-12,1011,Widget K,Home Goods,140.94,3,Houston,53
+2023-08-03,1010,Gizmo J,Toys,158.01,4,Chicago,54
+2024-03-31,1004,Doohickey D,Home Goods,135.64,2,Houston,44
+2024-05-25,1014,Doohickey N,Home Goods,212.4,1,New York,41
+2024-05-25,1004,Doohickey D,Home Goods,91.74,5,Los Angeles,64
+2023-08-05,1012,Gadget L,Electronics,102.25,5,Los Angeles,35
+2024-04-27,1016,Widget P,Toys,230.29,4,Houston,63
+2024-04-18,1007,Gadget G,Toys,80.89,1,New York,20
+2023-08-29,1001,Widget A,Electronics,113.47,5,Chicago,50
+2024-05-29,1010,Gizmo J,Toys,132.4,2,Los Angeles,42
+2024-05-26,1004,Doohickey D,Home Goods,131.19,4,Chicago,42
+2024-02-19,1007,Gadget G,Toys,186.23,2,Chicago,44
+2024-07-06,1006,Widget F,Electronics,293.13,5,New York,27
+2023-10-03,1002,Gadget B,Electronics,167.24,2,Houston,58
+2024-06-06,1005,Gizmo E,Toys,114.13,2,Los Angeles,48
+2023-08-02,1012,Gadget L,Electronics,134.87,5,New York,47
+2024-04-02,1006,Widget F,Electronics,103.57,3,New York,33
+2023-08-25,1016,Widget P,Toys,161.69,5,Los Angeles,54
+2024-06-28,1004,Doohickey D,Home Goods,83.99,4,Houston,22
+2024-04-16,1010,Gizmo J,Toys,246.33,1,Houston,41
+2023-07-27,1012,Gadget L,Electronics,194.38,1,Houston,39
+2024-01-04,1006,Widget F,Electronics,185.95,3,Houston,52
+2024-01-04,1012,Gadget L,Electronics,218.23,5,Houston,25
+2024-06-14,1007,Gadget G,Toys,127.49,1,Chicago,31
+2023-10-25,1009,Doohickey I,Electronics,298.01,4,Los Angeles,65
+2023-11-06,1016,Widget P,Toys,180.15,5,Chicago,36
+2023-12-12,1012,Gadget L,Electronics,239.96,3,Houston,31
+2024-03-03,1012,Gadget L,Electronics,261.46,1,Los Angeles,36
+2023-07-22,1004,Doohickey D,Home Goods,121.48,4,Houston,26
+2023-07-31,1007,Gadget G,Toys,229.32,1,Chicago,38
+2023-08-30,1003,Thingamajig C,Home Goods,50.53,2,Chicago,34
+2023-09-15,1014,Doohickey N,Home Goods,287.31,2,Los Angeles,43
+2023-11-27,1012,Gadget L,Electronics,103.38,5,Houston,21
+2023-08-03,1009,Doohickey I,Electronics,70.25,5,Los Angeles,38
+2024-07-08,1016,Widget P,Toys,182.83,5,Houston,48
+2023-12-19,1012,Gadget L,Electronics,55.17,2,Houston,45
+2023-10-24,1016,Widget P,Toys,53.04,3,Los Angeles,56
+2024-06-05,1011,Widget K,Home Goods,103.59,1,Los Angeles,57
+2023-10-08,1006,Widget F,Electronics,76.97,1,Houston,30
+2023-11-02,1016,Widget P,Toys,136.26,1,Los Angeles,20
+2024-03-02,1013,Thingamajig M,Toys,199.47,1,New York,42
+2023-09-16,1004,Doohickey D,Home Goods,153.16,3,Los Angeles,46
+2023-08-14,1002,Gadget B,Electronics,231.2,5,Houston,50
+2023-12-15,1010,Gizmo J,Toys,165.54,3,Houston,39
+2024-04-18,1001,Widget A,Electronics,53.38,1,Houston,24
+2023-07-10,1001,Widget A,Electronics,266.48,1,New York,37
+2024-05-11,1004,Doohickey D,Home Goods,182.3,5,New York,40
+2023-11-17,1008,Thingamabob H,Home Goods,59.96,2,Chicago,21
+2023-12-30,1004,Doohickey D,Home Goods,227.6,5,Houston,24
+2023-09-05,1012,Gadget L,Electronics,202.84,2,New York,49
+2023-10-16,1008,Thingamabob H,Home Goods,279.7,2,New York,57
+2024-03-17,1011,Widget K,Home Goods,272.6,4,Chicago,52
+2023-10-25,1005,Gizmo E,Toys,111.71,2,Houston,47
+2024-05-12,1009,Doohickey I,Electronics,127.73,1,Houston,64
+2023-10-18,1009,Doohickey I,Electronics,208.83,5,Chicago,32
+2024-05-08,1016,Widget P,Toys,60.2,5,Los Angeles,53
+2024-01-09,1012,Gadget L,Electronics,129.09,1,New York,55
+2024-04-30,1002,Gadget B,Electronics,155.4,1,Chicago,36
+2023-07-13,1016,Widget P,Toys,81.72,3,New York,18
+2023-11-26,1014,Doohickey N,Home Goods,128.33,5,New York,55
+2024-03-06,1003,Thingamajig C,Home Goods,242.28,4,Los Angeles,33
+2024-03-22,1001,Widget A,Electronics,56.86,3,Los Angeles,39
+2023-12-26,1009,Doohickey I,Electronics,211.58,2,Houston,19
+2024-04-14,1006,Widget F,Electronics,127.98,5,New York,20
+2024-01-10,1009,Doohickey I,Electronics,163.71,5,Chicago,29
+2024-02-25,1015,Gizmo O,Electronics,85.46,1,Los Angeles,30
+2024-05-19,1008,Thingamabob H,Home Goods,75.77,1,Houston,23
+2023-09-10,1003,Thingamajig C,Home Goods,201.34,1,Houston,59
+2024-01-25,1004,Doohickey D,Home Goods,74.33,5,Chicago,44
+2023-10-29,1003,Thingamajig C,Home Goods,133.37,5,Chicago,54
+2023-10-03,1001,Widget A,Electronics,241.63,3,Houston,53
+2023-08-09,1010,Gizmo J,Toys,104.39,4,Houston,51
+2024-04-08,1010,Gizmo J,Toys,256.9,2,New York,25
+2023-10-12,1007,Gadget G,Toys,66.76,2,New York,22
+2023-11-23,1006,Widget F,Electronics,291.36,2,Chicago,24
+2024-03-14,1015,Gizmo O,Electronics,152.67,3,Chicago,32
+2024-04-03,1004,Doohickey D,Home Goods,221.4,2,Chicago,25
+2024-02-24,1006,Widget F,Electronics,203.56,5,New York,18
+2024-06-07,1007,Gadget G,Toys,86.57,5,Chicago,62
+2024-01-29,1015,Gizmo O,Electronics,286.64,5,Los Angeles,60
+2023-11-19,1013,Thingamajig M,Toys,273.09,5,Houston,53
+2023-12-25,1010,Gizmo J,Toys,260.91,5,Los Angeles,39
+2024-01-15,1014,Doohickey N,Home Goods,234.95,3,New York,32
+2023-10-18,1006,Widget F,Electronics,63.94,3,New York,44
+2023-12-23,1014,Doohickey N,Home Goods,122.99,2,Los Angeles,61
+2023-08-19,1010,Gizmo J,Toys,57.49,2,Chicago,52
+2023-10-22,1014,Doohickey N,Home Goods,239.43,3,Chicago,22
+2024-03-23,1011,Widget K,Home Goods,71.28,5,Los Angeles,29
+2024-03-26,1005,Gizmo E,Toys,237.66,1,Houston,29
+2024-03-13,1001,Widget A,Electronics,269.87,4,Houston,41
+2023-12-31,1013,Thingamajig M,Toys,211.69,2,Los Angeles,48
+2023-09-08,1012,Gadget L,Electronics,248.09,5,Chicago,47
+2024-03-21,1005,Gizmo E,Toys,252.36,5,Los Angeles,61
+2023-07-25,1007,Gadget G,Toys,257.34,4,Los Angeles,36
+2023-12-26,1004,Doohickey D,Home Goods,120.73,2,New York,57
+2024-02-01,1006,Widget F,Electronics,209.85,1,Los Angeles,38
+2024-06-27,1002,Gadget B,Electronics,183.02,1,New York,55
+2024-06-16,1003,Thingamajig C,Home Goods,187.19,3,Houston,19
+2024-05-08,1008,Thingamabob H,Home Goods,169.24,5,Los Angeles,20
+2023-10-29,1009,Doohickey I,Electronics,190.64,4,Houston,48
+2024-06-08,1010,Gizmo J,Toys,93.27,3,New York,20
+2023-07-29,1006,Widget F,Electronics,242.12,5,Houston,18
+2024-02-27,1002,Gadget B,Electronics,258.39,4,New York,56
+2024-02-11,1002,Gadget B,Electronics,152.87,4,Los Angeles,43
+2023-09-29,1016,Widget P,Toys,201.41,5,New York,58
+2023-10-16,1008,Thingamabob H,Home Goods,289.0,1,Chicago,47
+2023-09-21,1008,Thingamabob H,Home Goods,200.34,5,New York,21
+2023-09-29,1013,Thingamajig M,Toys,177.92,3,New York,59
+2023-12-13,1009,Doohickey I,Electronics,229.57,1,Los Angeles,42
+2024-04-12,1008,Thingamabob H,Home Goods,156.02,3,Houston,28
+2024-05-15,1004,Doohickey D,Home Goods,279.68,2,Chicago,60
+2023-10-22,1007,Gadget G,Toys,164.32,4,Los Angeles,30
+2024-03-07,1015,Gizmo O,Electronics,127.75,1,New York,57
+2023-08-20,1016,Widget P,Toys,224.67,5,Houston,63
+2024-02-06,1007,Gadget G,Toys,293.35,2,New York,46
+2023-12-09,1003,Thingamajig C,Home Goods,299.3,5,Chicago,39
+2023-07-28,1004,Doohickey D,Home Goods,94.44,5,Los Angeles,56
+2024-04-14,1011,Widget K,Home Goods,170.99,3,Chicago,35
+2024-01-31,1002,Gadget B,Electronics,266.97,5,New York,19
+2023-08-31,1010,Gizmo J,Toys,229.59,1,New York,44
+2023-08-29,1016,Widget P,Toys,153.44,4,New York,25
+2023-12-10,1008,Thingamabob H,Home Goods,165.83,4,Los Angeles,37
+2023-09-14,1008,Thingamabob H,Home Goods,274.83,1,Houston,65
+2023-11-21,1011,Widget K,Home Goods,254.83,3,Chicago,55
+2024-02-27,1010,Gizmo J,Toys,129.81,3,Los Angeles,31
+2024-04-08,1004,Doohickey D,Home Goods,217.93,2,New York,28
+2024-06-17,1014,Doohickey N,Home Goods,161.1,3,Houston,63
+2023-08-08,1002,Gadget B,Electronics,183.4,1,New York,60
+2024-05-09,1008,Thingamabob H,Home Goods,226.44,5,New York,58
+2023-09-03,1016,Widget P,Toys,211.92,3,Houston,46
+2023-07-20,1011,Widget K,Home Goods,89.49,4,Chicago,18
+2023-08-05,1016,Widget P,Toys,227.42,2,Houston,41
+2024-05-23,1009,Doohickey I,Electronics,262.89,2,Los Angeles,35
+2024-05-19,1008,Thingamabob H,Home Goods,273.9,3,Houston,55
+2024-02-08,1015,Gizmo O,Electronics,74.21,5,New York,28
+2024-02-23,1007,Gadget G,Toys,253.51,2,Chicago,42
+2024-05-05,1009,Doohickey I,Electronics,145.95,5,Houston,43
+2023-09-06,1007,Gadget G,Toys,74.79,3,New York,35
+2024-01-04,1002,Gadget B,Electronics,264.04,4,New York,20
+2024-03-27,1011,Widget K,Home Goods,263.0,3,Chicago,60
+2023-12-28,1001,Widget A,Electronics,293.11,4,Chicago,65
+2024-05-06,1011,Widget K,Home Goods,223.01,1,New York,41
+2024-03-30,1006,Widget F,Electronics,64.41,1,Los Angeles,63
+2023-10-16,1004,Doohickey D,Home Goods,142.93,1,Chicago,38
+2024-07-03,1011,Widget K,Home Goods,221.39,3,Los Angeles,24
+2024-01-06,1001,Widget A,Electronics,134.62,4,Chicago,55
+2024-01-25,1007,Gadget G,Toys,260.9,4,New York,49
+2024-04-26,1011,Widget K,Home Goods,77.14,4,Chicago,44
+2024-05-07,1013,Thingamajig M,Toys,150.42,1,Chicago,53
+2023-09-10,1002,Gadget B,Electronics,230.92,5,Los Angeles,54
+2023-10-03,1011,Widget K,Home Goods,86.13,1,Houston,62
+2023-08-19,1001,Widget A,Electronics,159.21,4,Los Angeles,37
+2024-04-09,1008,Thingamabob H,Home Goods,137.46,3,Los Angeles,39
+2024-04-25,1016,Widget P,Toys,89.99,3,Houston,33
+2024-05-31,1013,Thingamajig M,Toys,145.55,4,Los Angeles,31
+2024-01-22,1008,Thingamabob H,Home Goods,227.06,3,Los Angeles,41
+2023-12-02,1003,Thingamajig C,Home Goods,62.16,5,Los Angeles,55
+2024-01-07,1012,Gadget L,Electronics,103.25,5,Chicago,20
+2024-01-21,1008,Thingamabob H,Home Goods,150.91,2,Houston,28
+2024-04-21,1013,Thingamajig M,Toys,50.7,1,Chicago,31
+2024-05-22,1012,Gadget L,Electronics,58.75,2,New York,56
+2024-06-09,1001,Widget A,Electronics,84.32,1,New York,60
+2023-12-30,1012,Gadget L,Electronics,173.1,5,New York,19
+2024-06-12,1004,Doohickey D,Home Goods,125.3,2,Chicago,54
+2024-03-24,1013,Thingamajig M,Toys,191.2,5,Houston,54
+2023-09-08,1008,Thingamabob H,Home Goods,146.51,4,Chicago,23
+2023-10-13,1004,Doohickey D,Home Goods,100.35,1,Chicago,24
+2023-12-20,1012,Gadget L,Electronics,66.18,5,Houston,30
+2023-11-11,1001,Widget A,Electronics,55.99,2,Houston,42
+2024-06-30,1002,Gadget B,Electronics,243.0,5,Houston,24
+2024-04-23,1016,Widget P,Toys,116.96,4,New York,39
+2023-07-23,1004,Doohickey D,Home Goods,173.76,2,Los Angeles,51
+2023-11-23,1004,Doohickey D,Home Goods,132.52,1,Houston,22
+2023-10-26,1016,Widget P,Toys,59.5,1,Chicago,60
+2024-06-25,1001,Widget A,Electronics,88.45,3,Houston,56
+2024-04-08,1002,Gadget B,Electronics,257.46,2,New York,61
+2024-01-05,1004,Doohickey D,Home Goods,210.43,2,Los Angeles,52
+2024-05-22,1005,Gizmo E,Toys,205.08,1,Los Angeles,33
+2024-05-21,1010,Gizmo J,Toys,176.65,4,New York,38
+2024-03-25,1010,Gizmo J,Toys,265.66,4,New York,47
+2024-02-15,1007,Gadget G,Toys,292.85,2,New York,46
+2023-08-05,1006,Widget F,Electronics,275.24,1,New York,43
+2023-09-03,1009,Doohickey I,Electronics,209.63,5,Houston,28
+2024-05-13,1009,Doohickey I,Electronics,132.37,4,Los Angeles,45
+2023-11-20,1015,Gizmo O,Electronics,65.77,5,Chicago,63
+2023-07-28,1010,Gizmo J,Toys,222.04,5,Los Angeles,62
+2023-08-11,1001,Widget A,Electronics,211.87,2,Chicago,18
+2024-01-04,1013,Thingamajig M,Toys,222.67,1,Los Angeles,18
+2024-01-03,1007,Gadget G,Toys,290.74,3,Chicago,54
+2024-03-09,1006,Widget F,Electronics,163.17,3,Los Angeles,24
+2024-02-03,1014,Doohickey N,Home Goods,102.56,1,Houston,47
+2024-03-31,1005,Gizmo E,Toys,85.59,2,New York,46
+2023-10-27,1007,Gadget G,Toys,212.55,5,Houston,24
+2023-09-25,1005,Gizmo E,Toys,198.32,2,Chicago,23
+2024-02-06,1003,Thingamajig C,Home Goods,219.53,5,Los Angeles,41
+2023-11-04,1011,Widget K,Home Goods,153.84,3,Los Angeles,56
+2023-10-05,1004,Doohickey D,Home Goods,83.64,2,New York,63
+2024-02-06,1012,Gadget L,Electronics,294.41,3,Los Angeles,51
+2023-08-24,1011,Widget K,Home Goods,187.27,3,New York,34
+2024-06-21,1004,Doohickey D,Home Goods,287.74,3,Los Angeles,26
+2024-03-22,1013,Thingamajig M,Toys,205.02,5,New York,19
+2024-01-10,1003,Thingamajig C,Home Goods,140.0,5,Houston,58
+2023-09-21,1002,Gadget B,Electronics,149.48,3,New York,18
+2024-01-16,1016,Widget P,Toys,259.47,1,Chicago,39
+2023-12-29,1001,Widget A,Electronics,285.35,1,Los Angeles,49
+2024-03-01,1014,Doohickey N,Home Goods,151.36,5,Chicago,49
+2023-11-09,1013,Thingamajig M,Toys,148.19,1,New York,31
+2024-05-09,1006,Widget F,Electronics,144.68,4,Houston,23
+2024-01-01,1015,Gizmo O,Electronics,80.0,1,Los Angeles,31
+2024-06-18,1004,Doohickey D,Home Goods,108.96,5,Los Angeles,46
+2023-10-09,1011,Widget K,Home Goods,299.25,1,Los Angeles,44
+2024-01-17,1006,Widget F,Electronics,248.56,2,Houston,46
+2023-12-27,1004,Doohickey D,Home Goods,86.38,2,Chicago,33
+2024-05-26,1015,Gizmo O,Electronics,131.98,4,Los Angeles,28
+2023-10-03,1003,Thingamajig C,Home Goods,163.35,2,New York,40
+2024-03-13,1005,Gizmo E,Toys,128.38,1,Houston,27
+2023-12-29,1009,Doohickey I,Electronics,122.66,4,New York,33
+2023-10-05,1006,Widget F,Electronics,234.87,4,Los Angeles,27
+2023-10-03,1010,Gizmo J,Toys,167.5,1,Chicago,23
+2024-06-18,1014,Doohickey N,Home Goods,62.71,3,New York,45
+2024-03-28,1003,Thingamajig C,Home Goods,110.86,3,Chicago,34
+2024-07-08,1001,Widget A,Electronics,137.71,3,Houston,47
+2024-06-05,1005,Gizmo E,Toys,161.23,4,New York,38
+2024-06-01,1016,Widget P,Toys,296.02,2,New York,22
+2023-09-14,1009,Doohickey I,Electronics,158.66,4,Houston,32
+2024-05-08,1011,Widget K,Home Goods,251.69,4,Chicago,57
+2024-03-25,1008,Thingamabob H,Home Goods,220.89,5,Chicago,46
+2024-01-22,1014,Doohickey N,Home Goods,291.02,1,Houston,50
+2023-11-10,1012,Gadget L,Electronics,183.0,3,New York,63
+2023-09-04,1014,Doohickey N,Home Goods,248.25,5,Los Angeles,20
+2024-01-24,1001,Widget A,Electronics,136.45,1,Los Angeles,24
+2023-10-25,1016,Widget P,Toys,98.61,1,New York,43
+2023-10-27,1013,Thingamajig M,Toys,102.37,4,New York,47
+2023-09-01,1005,Gizmo E,Toys,173.02,3,Los Angeles,47
+2024-04-09,1013,Thingamajig M,Toys,264.53,1,Los Angeles,37
+2023-08-24,1016,Widget P,Toys,95.32,3,Los Angeles,57
+2024-01-16,1010,Gizmo J,Toys,62.78,5,Los Angeles,26
+2023-11-15,1002,Gadget B,Electronics,174.62,4,New York,56
+2023-09-12,1016,Widget P,Toys,66.61,2,Los Angeles,50
+2023-10-15,1002,Gadget B,Electronics,274.21,5,Chicago,46
+2024-05-15,1014,Doohickey N,Home Goods,292.06,4,Los Angeles,40
+2023-10-15,1003,Thingamajig C,Home Goods,283.82,5,Los Angeles,38
+2023-09-10,1012,Gadget L,Electronics,208.25,1,Chicago,56
+2023-09-01,1014,Doohickey N,Home Goods,98.91,1,New York,49
+2024-03-07,1008,Thingamabob H,Home Goods,192.84,3,Chicago,22
+2024-05-08,1005,Gizmo E,Toys,112.0,4,New York,39
+2023-09-07,1012,Gadget L,Electronics,285.15,4,Chicago,52
+2024-01-17,1008,Thingamabob H,Home Goods,192.34,3,Los Angeles,20
+2024-02-21,1004,Doohickey D,Home Goods,172.09,2,Chicago,50
+2024-01-13,1006,Widget F,Electronics,50.99,4,Los Angeles,36
+2023-09-02,1010,Gizmo J,Toys,136.74,5,Chicago,34
+2024-04-19,1014,Doohickey N,Home Goods,181.21,1,Los Angeles,58
+2024-01-22,1011,Widget K,Home Goods,57.97,2,Chicago,41
+2024-04-03,1015,Gizmo O,Electronics,94.1,2,Chicago,57
+2023-08-12,1003,Thingamajig C,Home Goods,135.03,4,Chicago,64
+2024-02-20,1013,Thingamajig M,Toys,150.6,4,Chicago,19
+2024-07-02,1003,Thingamajig C,Home Goods,226.27,5,Houston,34
+2024-04-24,1016,Widget P,Toys,209.82,2,Los Angeles,19
+2023-12-06,1008,Thingamabob H,Home Goods,165.02,5,Los Angeles,51
+2024-01-04,1013,Thingamajig M,Toys,269.49,5,Los Angeles,62
+2024-04-22,1003,Thingamajig C,Home Goods,146.34,5,Chicago,27
+2023-12-18,1009,Doohickey I,Electronics,117.02,1,New York,57
+2024-02-24,1009,Doohickey I,Electronics,73.65,2,New York,26
+2024-06-28,1014,Doohickey N,Home Goods,269.29,5,Houston,32
+2024-05-11,1005,Gizmo E,Toys,96.95,1,New York,28
+2023-10-27,1002,Gadget B,Electronics,138.25,4,Chicago,59
+2024-02-12,1009,Doohickey I,Electronics,86.17,4,New York,41
+2024-01-02,1001,Widget A,Electronics,168.66,3,Los Angeles,29
+2023-07-10,1015,Gizmo O,Electronics,295.78,3,Chicago,53
+2023-11-18,1010,Gizmo J,Toys,193.05,3,Houston,64
+2023-12-09,1012,Gadget L,Electronics,120.45,4,New York,45
+2023-12-10,1012,Gadget L,Electronics,194.08,1,Los Angeles,62
+2024-01-12,1007,Gadget G,Toys,161.43,5,Houston,57
+2024-03-14,1006,Widget F,Electronics,149.26,1,Houston,58
+2024-01-29,1013,Thingamajig M,Toys,179.57,3,Chicago,39
+2023-12-19,1008,Thingamabob H,Home Goods,149.73,3,New York,58
+2024-05-08,1008,Thingamabob H,Home Goods,131.16,4,Chicago,31
+2024-06-02,1008,Thingamabob H,Home Goods,287.48,2,Chicago,30
+2023-08-06,1015,Gizmo O,Electronics,112.78,3,Houston,39
+2024-01-01,1010,Gizmo J,Toys,134.45,2,Houston,56
+2023-08-31,1004,Doohickey D,Home Goods,144.82,2,Los Angeles,48
+2023-09-11,1012,Gadget L,Electronics,209.9,3,Los Angeles,56
+2024-05-31,1011,Widget K,Home Goods,189.31,2,Chicago,58
+2023-09-28,1013,Thingamajig M,Toys,62.55,4,Chicago,37
+2023-10-29,1005,Gizmo E,Toys,115.81,5,Houston,20
+2024-02-21,1013,Thingamajig M,Toys,120.42,3,New York,49
+2024-05-10,1011,Widget K,Home Goods,224.37,1,New York,52
+2023-10-16,1011,Widget K,Home Goods,73.17,5,New York,44
+2024-03-22,1011,Widget K,Home Goods,158.79,3,Houston,50
+2024-05-14,1003,Thingamajig C,Home Goods,266.23,5,Chicago,50
+2024-02-13,1004,Doohickey D,Home Goods,293.69,3,Chicago,37
+2023-09-27,1001,Widget A,Electronics,95.51,2,Chicago,44
+2023-10-30,1011,Widget K,Home Goods,226.28,1,Houston,20
+2023-07-30,1007,Gadget G,Toys,99.8,3,Los Angeles,39
+2024-05-14,1007,Gadget G,Toys,53.42,5,New York,62
+2024-02-14,1015,Gizmo O,Electronics,161.89,4,Houston,29
+2024-02-05,1008,Thingamabob H,Home Goods,58.75,4,Houston,62
+2024-04-24,1009,Doohickey I,Electronics,193.14,5,New York,39
+2023-12-21,1013,Thingamajig M,Toys,273.4,2,Chicago,53
+2023-07-18,1003,Thingamajig C,Home Goods,138.09,2,Houston,45
+2023-08-25,1008,Thingamabob H,Home Goods,124.02,1,Chicago,56
+2023-11-28,1003,Thingamajig C,Home Goods,72.25,3,Chicago,62
+2024-05-02,1002,Gadget B,Electronics,270.88,3,Los Angeles,40
+2023-11-01,1009,Doohickey I,Electronics,251.37,2,Los Angeles,63
+2024-03-17,1009,Doohickey I,Electronics,197.81,2,Los Angeles,43
+2023-09-09,1008,Thingamabob H,Home Goods,192.36,3,Los Angeles,58
+2023-12-18,1009,Doohickey I,Electronics,139.83,3,Chicago,25
+2024-04-26,1001,Widget A,Electronics,206.04,5,Los Angeles,47
+2024-01-23,1005,Gizmo E,Toys,206.91,4,Houston,27
+2024-03-09,1002,Gadget B,Electronics,262.45,5,New York,60
+2023-09-15,1009,Doohickey I,Electronics,145.11,3,Los Angeles,45
+2024-03-13,1001,Widget A,Electronics,265.55,3,Chicago,59
+2024-01-05,1002,Gadget B,Electronics,197.11,5,Chicago,51
+2024-05-22,1014,Doohickey N,Home Goods,95.21,4,Los Angeles,63
+2024-01-27,1003,Thingamajig C,Home Goods,56.89,1,New York,51
+2023-11-30,1015,Gizmo O,Electronics,132.68,5,Houston,32
+2024-02-24,1005,Gizmo E,Toys,91.18,5,New York,56
+2024-02-29,1005,Gizmo E,Toys,285.7,1,New York,25
+2024-05-05,1012,Gadget L,Electronics,98.16,2,Los Angeles,49
+2023-10-29,1005,Gizmo E,Toys,124.14,3,New York,52
+2024-02-25,1007,Gadget G,Toys,213.12,4,Los Angeles,62
+2024-02-04,1016,Widget P,Toys,203.4,5,Houston,64
+2023-09-07,1009,Doohickey I,Electronics,105.4,2,Chicago,28
+2023-09-20,1003,Thingamajig C,Home Goods,243.57,2,Chicago,51
+2023-10-13,1010,Gizmo J,Toys,94.63,4,New York,28
+2024-01-07,1012,Gadget L,Electronics,71.56,1,New York,28
+2024-04-19,1001,Widget A,Electronics,184.07,5,Houston,27
+2024-01-13,1006,Widget F,Electronics,58.09,1,Houston,60
+2024-02-20,1003,Thingamajig C,Home Goods,283.47,4,New York,58
+2024-05-22,1014,Doohickey N,Home Goods,151.08,2,Houston,39
+2023-09-01,1003,Thingamajig C,Home Goods,196.39,4,Chicago,40
+2024-06-23,1005,Gizmo E,Toys,241.53,2,New York,36
+2023-12-12,1013,Thingamajig M,Toys,282.69,3,New York,31
+2023-12-03,1006,Widget F,Electronics,218.75,1,Houston,20
+2023-12-25,1016,Widget P,Toys,161.34,4,Chicago,22
+2024-01-25,1003,Thingamajig C,Home Goods,158.3,5,Los Angeles,29
+2023-11-08,1010,Gizmo J,Toys,273.84,5,Houston,27
+2024-02-21,1016,Widget P,Toys,185.94,5,Houston,25
+2023-10-21,1014,Doohickey N,Home Goods,150.5,2,Chicago,61
+2024-02-22,1007,Gadget G,Toys,104.8,1,New York,42
+2023-08-28,1002,Gadget B,Electronics,162.51,4,Chicago,18
+2024-01-12,1005,Gizmo E,Toys,141.14,2,Chicago,59
+2024-01-06,1002,Gadget B,Electronics,53.27,1,New York,52
+2024-02-23,1012,Gadget L,Electronics,193.3,2,Chicago,37
+2023-07-10,1012,Gadget L,Electronics,214.49,4,Houston,30
+2024-05-09,1005,Gizmo E,Toys,192.41,3,Houston,64
+2023-07-12,1008,Thingamabob H,Home Goods,143.37,3,Houston,25
+2024-03-27,1006,Widget F,Electronics,212.1,5,New York,33
+2024-05-01,1011,Widget K,Home Goods,73.58,5,New York,38
+2024-05-13,1015,Gizmo O,Electronics,229.27,2,Houston,63
+2024-01-08,1001,Widget A,Electronics,123.44,5,Los Angeles,55
+2023-11-02,1001,Widget A,Electronics,246.42,1,Houston,55
+2024-04-15,1014,Doohickey N,Home Goods,204.54,5,New York,30
+2024-04-19,1003,Thingamajig C,Home Goods,144.45,2,Los Angeles,45
+2024-05-15,1011,Widget K,Home Goods,224.34,5,New York,60
+2023-07-27,1016,Widget P,Toys,218.57,4,Houston,30
+2024-02-12,1015,Gizmo O,Electronics,282.2,1,Houston,50
+2023-10-24,1014,Doohickey N,Home Goods,186.62,3,Chicago,19
+2024-06-23,1015,Gizmo O,Electronics,238.69,4,Houston,29
+2024-07-04,1011,Widget K,Home Goods,80.31,2,Los Angeles,28
+2024-01-23,1002,Gadget B,Electronics,206.16,3,Los Angeles,38
+2024-04-10,1014,Doohickey N,Home Goods,215.26,1,New York,30
+2024-06-16,1004,Doohickey D,Home Goods,113.8,3,Los Angeles,50
+2023-09-12,1010,Gizmo J,Toys,64.35,5,Chicago,36
+2023-08-28,1006,Widget F,Electronics,149.25,3,New York,61
+2023-10-30,1005,Gizmo E,Toys,246.86,4,Chicago,61
+2024-06-03,1010,Gizmo J,Toys,192.38,4,Chicago,33
+2024-06-24,1012,Gadget L,Electronics,136.19,5,New York,62
+2023-08-01,1007,Gadget G,Toys,258.77,5,New York,44
+2023-10-24,1010,Gizmo J,Toys,97.52,4,New York,59
+2024-06-19,1012,Gadget L,Electronics,271.05,1,Los Angeles,39
+2024-04-05,1016,Widget P,Toys,181.37,2,Chicago,43
+2024-01-02,1002,Gadget B,Electronics,113.96,3,New York,42
+2024-05-16,1010,Gizmo J,Toys,138.06,3,Chicago,46
+2023-12-28,1011,Widget K,Home Goods,82.84,4,New York,25
+2023-07-30,1008,Thingamabob H,Home Goods,297.03,5,New York,44
+2023-11-10,1007,Gadget G,Toys,221.29,4,Los Angeles,25
+2023-07-20,1009,Doohickey I,Electronics,224.57,4,New York,27
+2024-02-20,1013,Thingamajig M,Toys,267.22,4,Houston,43
+2023-12-27,1002,Gadget B,Electronics,147.21,2,Los Angeles,45
+2023-09-22,1014,Doohickey N,Home Goods,213.73,1,New York,21
+2024-05-28,1007,Gadget G,Toys,250.9,1,Chicago,31
+2023-10-02,1008,Thingamabob H,Home Goods,54.53,3,Houston,51
+2024-04-16,1003,Thingamajig C,Home Goods,289.57,1,Chicago,38
+2023-09-02,1011,Widget K,Home Goods,126.0,3,New York,18
+2023-11-18,1002,Gadget B,Electronics,180.18,3,New York,49
+2023-10-19,1010,Gizmo J,Toys,190.92,2,New York,56
+2023-07-23,1001,Widget A,Electronics,247.29,2,Chicago,63
+2024-01-18,1016,Widget P,Toys,162.91,2,Los Angeles,19
+2024-02-05,1011,Widget K,Home Goods,180.45,1,Chicago,62
+2024-02-24,1001,Widget A,Electronics,231.41,4,Houston,33
+2023-11-26,1001,Widget A,Electronics,76.46,2,New York,65
+2023-09-25,1002,Gadget B,Electronics,64.82,5,Los Angeles,21
+2024-03-13,1001,Widget A,Electronics,134.03,2,New York,56
+2024-01-15,1011,Widget K,Home Goods,250.51,4,New York,35
+2023-12-27,1014,Doohickey N,Home Goods,213.11,3,Houston,22
+2023-08-23,1008,Thingamabob H,Home Goods,194.64,1,New York,24
+2023-10-18,1007,Gadget G,Toys,250.02,5,New York,31
+2024-06-21,1014,Doohickey N,Home Goods,298.74,2,Houston,61
+2024-03-26,1010,Gizmo J,Toys,198.17,2,New York,59
+2024-06-08,1005,Gizmo E,Toys,240.57,3,Chicago,47
+2024-05-20,1005,Gizmo E,Toys,74.98,5,Los Angeles,22
+2023-12-30,1007,Gadget G,Toys,51.4,4,New York,64
+2023-12-15,1006,Widget F,Electronics,152.23,2,Chicago,51
+2023-12-04,1012,Gadget L,Electronics,198.44,2,Chicago,61
+2023-11-03,1012,Gadget L,Electronics,212.8,3,Los Angeles,25
+2024-06-15,1014,Doohickey N,Home Goods,255.32,4,New York,20
+2024-03-31,1011,Widget K,Home Goods,153.06,3,Chicago,53
+2023-07-13,1001,Widget A,Electronics,183.83,2,Los Angeles,63
+2024-03-07,1002,Gadget B,Electronics,105.2,1,Chicago,19
+2024-05-27,1011,Widget K,Home Goods,83.39,3,Chicago,63
+2024-02-29,1016,Widget P,Toys,289.75,5,Chicago,29
+2023-12-24,1002,Gadget B,Electronics,167.39,4,New York,38
+2024-06-12,1014,Doohickey N,Home Goods,252.53,2,New York,31
+2024-03-27,1004,Doohickey D,Home Goods,132.61,5,Los Angeles,62
+2024-01-11,1008,Thingamabob H,Home Goods,114.22,2,New York,21
+2023-10-04,1005,Gizmo E,Toys,210.15,3,Chicago,24
+2024-01-13,1009,Doohickey I,Electronics,116.12,3,Los Angeles,23
+2023-10-10,1016,Widget P,Toys,238.51,4,Los Angeles,54
+2024-06-14,1006,Widget F,Electronics,234.25,1,Los Angeles,34
+2023-07-15,1009,Doohickey I,Electronics,201.53,3,New York,43
+2024-06-01,1008,Thingamabob H,Home Goods,52.47,2,New York,25
+2024-02-20,1015,Gizmo O,Electronics,280.31,4,Chicago,45
+2024-01-18,1010,Gizmo J,Toys,280.06,2,Los Angeles,49
+2023-10-30,1016,Widget P,Toys,61.05,2,Chicago,46
+2023-11-24,1004,Doohickey D,Home Goods,215.24,2,Los Angeles,54
+2023-09-07,1013,Thingamajig M,Toys,193.24,3,New York,54
+2023-09-29,1004,Doohickey D,Home Goods,194.66,1,New York,62
+2024-02-23,1002,Gadget B,Electronics,263.35,2,New York,50
+2023-09-27,1012,Gadget L,Electronics,230.37,5,New York,62
+2023-12-02,1004,Doohickey D,Home Goods,153.4,2,New York,59
+2024-05-03,1002,Gadget B,Electronics,138.36,4,Los Angeles,24
+2024-04-11,1015,Gizmo O,Electronics,254.83,5,New York,20
+2023-10-31,1001,Widget A,Electronics,211.68,1,Houston,26
+2024-01-23,1016,Widget P,Toys,259.59,2,Los Angeles,63
+2023-08-22,1015,Gizmo O,Electronics,110.39,2,Chicago,29
+2023-12-21,1009,Doohickey I,Electronics,110.74,2,Chicago,18
+2024-04-25,1003,Thingamajig C,Home Goods,96.29,5,New York,38
+2024-04-21,1003,Thingamajig C,Home Goods,61.29,3,Houston,19
+2024-06-22,1012,Gadget L,Electronics,242.7,3,New York,60
+2023-09-13,1006,Widget F,Electronics,235.89,2,Los Angeles,52
+2024-03-30,1014,Doohickey N,Home Goods,120.92,1,Houston,22
+2023-10-28,1011,Widget K,Home Goods,208.32,1,Los Angeles,28
+2023-12-31,1013,Thingamajig M,Toys,129.62,1,Los Angeles,60
+2024-02-05,1012,Gadget L,Electronics,146.74,4,New York,32
+2024-06-08,1015,Gizmo O,Electronics,70.8,2,Chicago,23
+2024-05-22,1012,Gadget L,Electronics,146.14,2,Los Angeles,47
+2024-01-16,1010,Gizmo J,Toys,78.55,1,Los Angeles,23
+2024-01-12,1009,Doohickey I,Electronics,96.24,1,Houston,63
+2023-08-10,1016,Widget P,Toys,140.17,3,Los Angeles,59
+2023-09-13,1011,Widget K,Home Goods,222.35,4,Los Angeles,64
+2023-10-15,1016,Widget P,Toys,153.29,1,Chicago,31
+2023-09-20,1009,Doohickey I,Electronics,291.95,2,New York,26
+2024-02-13,1014,Doohickey N,Home Goods,128.2,5,Houston,22
+2024-01-24,1006,Widget F,Electronics,157.5,3,Houston,52
+2024-02-09,1016,Widget P,Toys,216.51,3,New York,42
+2024-05-22,1005,Gizmo E,Toys,158.43,1,New York,43
+2024-02-04,1008,Thingamabob H,Home Goods,238.9,5,Chicago,42
+2024-05-22,1012,Gadget L,Electronics,276.48,1,Houston,50
+2024-03-27,1010,Gizmo J,Toys,177.17,2,Los Angeles,51
+2024-02-12,1011,Widget K,Home Goods,270.07,5,Los Angeles,29
+2024-06-17,1013,Thingamajig M,Toys,197.32,4,Houston,22
+2024-03-12,1010,Gizmo J,Toys,149.62,1,Chicago,18
+2024-01-17,1008,Thingamabob H,Home Goods,218.69,5,New York,46
+2023-12-12,1004,Doohickey D,Home Goods,178.22,1,Chicago,47
+2024-01-17,1011,Widget K,Home Goods,185.27,1,New York,19
+2024-06-13,1014,Doohickey N,Home Goods,186.16,5,New York,50
+2023-11-27,1001,Widget A,Electronics,240.3,5,Chicago,44
+2024-04-18,1002,Gadget B,Electronics,113.23,4,Chicago,41
+2024-06-10,1005,Gizmo E,Toys,217.05,3,Houston,59
+2024-04-15,1016,Widget P,Toys,245.73,1,New York,22
+2024-05-07,1015,Gizmo O,Electronics,154.22,3,New York,32
+2023-12-30,1007,Gadget G,Toys,66.93,4,Houston,19
+2023-08-03,1008,Thingamabob H,Home Goods,121.24,4,Houston,32
+2023-12-26,1004,Doohickey D,Home Goods,58.71,1,Los Angeles,36
+2023-12-18,1003,Thingamajig C,Home Goods,205.47,5,Houston,57
+2023-12-20,1010,Gizmo J,Toys,82.09,3,New York,35
+2023-09-08,1016,Widget P,Toys,146.9,5,Houston,54
+2023-10-17,1011,Widget K,Home Goods,70.95,5,New York,36
+2024-02-20,1005,Gizmo E,Toys,75.03,3,New York,54
+2023-12-20,1008,Thingamabob H,Home Goods,273.39,4,Los Angeles,22
+2024-05-24,1015,Gizmo O,Electronics,277.58,5,Houston,33
+2024-04-14,1002,Gadget B,Electronics,211.17,1,Chicago,21
+2023-09-13,1015,Gizmo O,Electronics,235.6,1,Los Angeles,39
+2024-03-06,1016,Widget P,Toys,154.69,5,New York,32
+2023-12-29,1006,Widget F,Electronics,215.49,3,Houston,55
+2023-11-05,1011,Widget K,Home Goods,71.46,2,New York,51
+2024-07-04,1012,Gadget L,Electronics,108.42,4,Houston,49
+2024-02-22,1002,Gadget B,Electronics,224.77,2,Houston,47
+2023-10-17,1012,Gadget L,Electronics,281.66,2,New York,64
+2024-02-26,1009,Doohickey I,Electronics,143.09,1,Houston,39
+2024-07-06,1005,Gizmo E,Toys,102.07,3,New York,37
+2023-10-06,1005,Gizmo E,Toys,267.61,4,New York,22
+2023-09-30,1001,Widget A,Electronics,223.61,2,Chicago,37
+2024-04-11,1010,Gizmo J,Toys,208.46,5,Los Angeles,65
+2023-12-25,1009,Doohickey I,Electronics,291.88,4,Houston,24
+2023-07-20,1013,Thingamajig M,Toys,109.35,1,Chicago,27
+2024-02-03,1001,Widget A,Electronics,130.78,4,Los Angeles,55
+2024-06-26,1003,Thingamajig C,Home Goods,75.73,2,New York,49
+2023-10-04,1015,Gizmo O,Electronics,253.66,4,Houston,54
+2023-08-23,1006,Widget F,Electronics,168.97,3,Los Angeles,19
+2024-03-24,1002,Gadget B,Electronics,81.15,3,Houston,42
+2024-06-27,1012,Gadget L,Electronics,290.53,2,Los Angeles,30
+2023-09-03,1002,Gadget B,Electronics,158.01,4,Houston,18
+2023-09-15,1007,Gadget G,Toys,260.53,3,Chicago,47
+2024-04-22,1014,Doohickey N,Home Goods,77.34,5,Los Angeles,25
+2023-09-15,1009,Doohickey I,Electronics,253.48,3,New York,30
+2023-08-13,1008,Thingamabob H,Home Goods,257.33,5,New York,34
+2024-05-22,1007,Gadget G,Toys,112.59,4,Chicago,26
+2023-09-03,1008,Thingamabob H,Home Goods,158.82,2,Chicago,60
+2023-10-23,1002,Gadget B,Electronics,246.77,5,New York,51
+2023-07-19,1013,Thingamajig M,Toys,294.23,3,Los Angeles,63
+2024-02-26,1013,Thingamajig M,Toys,117.73,5,New York,57
+2024-05-24,1013,Thingamajig M,Toys,151.66,1,Houston,24
+2023-10-01,1012,Gadget L,Electronics,138.91,1,Los Angeles,27
+2023-12-10,1007,Gadget G,Toys,206.17,2,Los Angeles,18
+2023-08-03,1006,Widget F,Electronics,60.18,3,Los Angeles,25
+2024-04-03,1016,Widget P,Toys,162.57,4,Chicago,30
+2023-08-03,1012,Gadget L,Electronics,214.85,4,Los Angeles,49
+2024-07-07,1004,Doohickey D,Home Goods,148.4,4,New York,35
+2023-09-15,1016,Widget P,Toys,93.05,2,New York,31
+2023-10-11,1009,Doohickey I,Electronics,51.59,4,Los Angeles,60
+2023-09-18,1006,Widget F,Electronics,103.48,1,Los Angeles,37
+2023-12-31,1003,Thingamajig C,Home Goods,197.92,2,Chicago,21
+2024-01-18,1008,Thingamabob H,Home Goods,205.6,5,Houston,28
+2023-10-30,1004,Doohickey D,Home Goods,206.02,5,Los Angeles,62
+2024-03-29,1007,Gadget G,Toys,96.45,1,New York,35
+2023-09-05,1009,Doohickey I,Electronics,260.89,5,Los Angeles,20
+2024-04-23,1014,Doohickey N,Home Goods,187.81,3,Houston,38
+2023-08-26,1011,Widget K,Home Goods,205.2,3,Los Angeles,53
+2024-01-23,1011,Widget K,Home Goods,163.97,5,Los Angeles,65
+2024-03-03,1002,Gadget B,Electronics,192.86,5,Chicago,27
+2023-08-11,1016,Widget P,Toys,232.36,2,New York,47
+2024-06-08,1004,Doohickey D,Home Goods,66.28,3,Los Angeles,22
+2024-04-15,1016,Widget P,Toys,66.26,5,Houston,18
+2024-06-18,1003,Thingamajig C,Home Goods,185.38,1,Los Angeles,21
+2024-01-16,1011,Widget K,Home Goods,187.3,4,Chicago,29
+2023-12-25,1007,Gadget G,Toys,268.22,4,Los Angeles,61
+2023-11-26,1007,Gadget G,Toys,134.22,5,Houston,41
+2024-04-24,1010,Gizmo J,Toys,199.02,3,Houston,52
+2023-09-22,1010,Gizmo J,Toys,152.34,1,Houston,51
+2024-04-04,1001,Widget A,Electronics,80.97,3,Chicago,62
+2023-11-07,1011,Widget K,Home Goods,91.31,1,New York,49
+2023-12-24,1007,Gadget G,Toys,207.12,1,Los Angeles,24
+2023-11-13,1007,Gadget G,Toys,245.66,1,Houston,63
+2024-05-15,1014,Doohickey N,Home Goods,195.99,3,Los Angeles,20
+2023-11-29,1007,Gadget G,Toys,89.19,2,Houston,38
+2024-03-11,1013,Thingamajig M,Toys,94.49,3,New York,40
+2024-01-07,1014,Doohickey N,Home Goods,217.8,4,Houston,35
+2024-06-10,1012,Gadget L,Electronics,260.19,1,Los Angeles,35
+2024-05-31,1007,Gadget G,Toys,138.99,5,New York,27
+2023-08-15,1002,Gadget B,Electronics,164.81,4,Chicago,53
+2024-05-04,1013,Thingamajig M,Toys,278.5,5,New York,39
+2024-05-16,1013,Thingamajig M,Toys,199.36,4,Chicago,48
+2024-01-14,1004,Doohickey D,Home Goods,67.05,2,Houston,46
+2024-02-03,1001,Widget A,Electronics,205.94,4,Los Angeles,37
+2024-02-06,1007,Gadget G,Toys,107.22,1,Houston,29
+2023-11-04,1012,Gadget L,Electronics,215.35,2,Chicago,59
+2023-08-31,1003,Thingamajig C,Home Goods,136.78,1,Houston,46
+2023-09-04,1011,Widget K,Home Goods,142.48,5,Chicago,42
+2023-11-26,1006,Widget F,Electronics,68.08,2,Houston,21
+2023-11-06,1010,Gizmo J,Toys,79.73,2,New York,21
+2024-05-05,1009,Doohickey I,Electronics,83.68,3,New York,46
+2023-09-26,1010,Gizmo J,Toys,81.14,1,New York,42
+2023-07-15,1004,Doohickey D,Home Goods,192.9,2,Houston,20
+2024-06-17,1002,Gadget B,Electronics,132.84,2,New York,62
+2024-03-31,1013,Thingamajig M,Toys,121.37,1,Chicago,37
+2023-08-29,1013,Thingamajig M,Toys,265.25,4,Chicago,59
+2023-12-13,1010,Gizmo J,Toys,138.19,4,New York,34
+2023-09-27,1002,Gadget B,Electronics,204.99,1,Chicago,22
+2024-05-21,1015,Gizmo O,Electronics,114.52,5,Houston,61
+2023-07-18,1006,Widget F,Electronics,231.45,4,Chicago,65
+2024-02-29,1011,Widget K,Home Goods,130.17,4,Houston,31
+2023-08-24,1012,Gadget L,Electronics,55.06,3,Los Angeles,35
+2023-07-21,1013,Thingamajig M,Toys,241.82,4,New York,18
+2024-01-20,1009,Doohickey I,Electronics,83.43,5,Houston,20
+2023-12-10,1001,Widget A,Electronics,216.19,4,Chicago,44
+2024-03-26,1001,Widget A,Electronics,255.92,2,Los Angeles,45
+2023-12-17,1009,Doohickey I,Electronics,82.93,3,New York,19
+2024-03-01,1015,Gizmo O,Electronics,111.77,3,Los Angeles,35
+2024-05-20,1009,Doohickey I,Electronics,262.69,4,Los Angeles,24
+2024-06-15,1003,Thingamajig C,Home Goods,145.01,2,Chicago,44
+2024-05-01,1008,Thingamabob H,Home Goods,199.77,4,Chicago,31
+2024-06-12,1007,Gadget G,Toys,150.47,4,Chicago,56
+2024-06-07,1013,Thingamajig M,Toys,78.49,3,Los Angeles,45
+2023-11-06,1003,Thingamajig C,Home Goods,102.62,1,New York,63
+2024-03-18,1011,Widget K,Home Goods,124.63,3,Los Angeles,28
+2023-10-11,1003,Thingamajig C,Home Goods,148.8,3,Los Angeles,53
+2024-01-14,1014,Doohickey N,Home Goods,197.0,2,Chicago,46
+2024-02-12,1001,Widget A,Electronics,92.27,1,Los Angeles,25
+2024-01-05,1014,Doohickey N,Home Goods,299.2,2,Los Angeles,65
+2023-10-12,1012,Gadget L,Electronics,248.97,2,Houston,33
+2024-04-14,1002,Gadget B,Electronics,55.54,3,Houston,43
+2023-11-11,1011,Widget K,Home Goods,171.86,3,Houston,61
+2024-05-17,1010,Gizmo J,Toys,104.51,3,Los Angeles,63
+2024-04-09,1013,Thingamajig M,Toys,78.48,5,New York,57
+2024-02-13,1001,Widget A,Electronics,68.03,5,Los Angeles,45
+2024-06-18,1012,Gadget L,Electronics,91.5,3,Chicago,56
+2024-06-10,1004,Doohickey D,Home Goods,201.94,3,Chicago,23
+2024-04-12,1013,Thingamajig M,Toys,123.34,1,Houston,65
+2023-08-28,1003,Thingamajig C,Home Goods,57.83,3,Houston,22
+2024-01-11,1005,Gizmo E,Toys,63.92,3,Los Angeles,38
+2024-05-21,1003,Thingamajig C,Home Goods,291.38,3,Los Angeles,31
+2024-03-27,1009,Doohickey I,Electronics,131.99,3,Los Angeles,62
+2024-06-09,1012,Gadget L,Electronics,78.13,1,Chicago,33
+2024-06-09,1014,Doohickey N,Home Goods,247.18,4,New York,24
+2024-04-25,1008,Thingamabob H,Home Goods,156.46,2,Chicago,35
+2024-03-02,1016,Widget P,Toys,174.95,5,Chicago,53
+2024-01-03,1009,Doohickey I,Electronics,105.83,4,Los Angeles,51
+2024-07-03,1014,Doohickey N,Home Goods,268.52,1,Chicago,24
+2024-01-12,1014,Doohickey N,Home Goods,56.11,2,Houston,29
+2024-03-08,1005,Gizmo E,Toys,278.55,5,New York,24
+2024-01-19,1011,Widget K,Home Goods,83.25,3,New York,19
+2023-11-23,1005,Gizmo E,Toys,182.25,4,Chicago,34
+2024-01-24,1007,Gadget G,Toys,138.99,4,Los Angeles,31
+2023-08-09,1011,Widget K,Home Goods,99.09,4,Los Angeles,34
+2024-03-05,1015,Gizmo O,Electronics,182.9,4,New York,37
+2023-09-19,1009,Doohickey I,Electronics,117.15,5,New York,51
+2024-05-11,1014,Doohickey N,Home Goods,188.33,5,Los Angeles,39
+2024-04-19,1007,Gadget G,Toys,223.86,2,Los Angeles,34
+2024-07-06,1002,Gadget B,Electronics,158.06,2,Houston,21
+2024-01-30,1014,Doohickey N,Home Goods,164.23,2,Houston,19
+2024-06-05,1014,Doohickey N,Home Goods,91.35,5,Houston,34
+2024-05-17,1010,Gizmo J,Toys,113.94,3,Chicago,45
+2024-05-25,1015,Gizmo O,Electronics,273.22,2,New York,35
+2023-09-20,1014,Doohickey N,Home Goods,296.95,5,Houston,26
+2024-03-17,1014,Doohickey N,Home Goods,169.05,5,Chicago,52
+2024-02-07,1016,Widget P,Toys,79.9,1,New York,60
+2024-07-03,1006,Widget F,Electronics,128.53,3,New York,25
+2023-07-26,1015,Gizmo O,Electronics,277.17,5,New York,19
+2024-03-21,1003,Thingamajig C,Home Goods,151.94,3,Houston,50
+2024-05-11,1012,Gadget L,Electronics,99.34,5,Houston,22
+2023-11-03,1011,Widget K,Home Goods,92.88,5,New York,52
+2023-11-28,1010,Gizmo J,Toys,125.6,3,Houston,35
+2023-11-19,1004,Doohickey D,Home Goods,111.6,2,Los Angeles,31
+2024-05-18,1010,Gizmo J,Toys,87.11,1,Houston,34
+2023-07-14,1005,Gizmo E,Toys,127.33,5,New York,51
+2023-10-08,1010,Gizmo J,Toys,98.53,2,Chicago,57
+2023-08-07,1001,Widget A,Electronics,208.35,3,Houston,30
+2023-07-19,1007,Gadget G,Toys,74.23,5,Chicago,58
+2023-07-28,1002,Gadget B,Electronics,92.44,4,Chicago,21
+2023-08-06,1005,Gizmo E,Toys,242.04,1,Houston,38
+2024-02-04,1013,Thingamajig M,Toys,260.1,1,Chicago,60
+2024-06-30,1005,Gizmo E,Toys,88.97,2,Houston,32
+2023-09-15,1001,Widget A,Electronics,105.33,4,Chicago,41
+2024-02-01,1015,Gizmo O,Electronics,57.63,5,New York,63
+2023-10-07,1002,Gadget B,Electronics,182.16,4,Chicago,30
+2024-05-18,1011,Widget K,Home Goods,189.24,2,New York,46
+2023-07-23,1006,Widget F,Electronics,199.75,1,Houston,38
+2024-02-23,1011,Widget K,Home Goods,199.51,2,Los Angeles,55
+2024-03-20,1016,Widget P,Toys,139.53,5,Houston,27
+2024-02-04,1007,Gadget G,Toys,184.75,2,New York,65
+2023-10-12,1002,Gadget B,Electronics,205.01,4,Los Angeles,52
+2023-09-29,1012,Gadget L,Electronics,128.29,4,Los Angeles,61
+2023-08-15,1002,Gadget B,Electronics,58.95,1,Los Angeles,18
+2023-12-08,1008,Thingamabob H,Home Goods,147.84,3,Houston,63
+2023-07-15,1008,Thingamabob H,Home Goods,191.52,1,Chicago,43
+2024-05-22,1014,Doohickey N,Home Goods,269.88,3,Los Angeles,50
+2024-06-06,1016,Widget P,Toys,113.33,1,Houston,55
+2024-01-02,1003,Thingamajig C,Home Goods,105.71,3,Houston,48
+2024-03-22,1005,Gizmo E,Toys,75.15,5,Los Angeles,46
+2024-06-18,1014,Doohickey N,Home Goods,154.68,5,Chicago,47
+2023-08-25,1004,Doohickey D,Home Goods,267.42,1,New York,63
+2023-07-13,1016,Widget P,Toys,152.81,1,Chicago,58
+2023-08-14,1006,Widget F,Electronics,177.6,2,Chicago,43
+2023-09-05,1005,Gizmo E,Toys,180.82,3,Chicago,23
+2023-10-15,1001,Widget A,Electronics,168.23,5,Los Angeles,26
+2023-12-07,1015,Gizmo O,Electronics,214.17,4,Houston,61
+2024-04-17,1014,Doohickey N,Home Goods,225.21,3,Chicago,27
+2024-05-20,1005,Gizmo E,Toys,60.22,1,Chicago,25
+2024-03-18,1002,Gadget B,Electronics,92.22,5,Los Angeles,18
+2023-12-02,1002,Gadget B,Electronics,292.7,4,Los Angeles,26
+2024-01-11,1010,Gizmo J,Toys,277.74,3,New York,39
+2023-11-27,1010,Gizmo J,Toys,159.01,5,Chicago,46
+2024-02-11,1015,Gizmo O,Electronics,74.77,1,Los Angeles,18
+2023-08-18,1004,Doohickey D,Home Goods,98.11,3,Los Angeles,37
+2024-06-26,1009,Doohickey I,Electronics,253.93,2,Houston,22
+2023-09-11,1010,Gizmo J,Toys,133.04,4,Los Angeles,55
+2024-02-15,1008,Thingamabob H,Home Goods,101.83,3,New York,52
+2024-02-20,1016,Widget P,Toys,153.78,2,Los Angeles,64
+2024-01-09,1001,Widget A,Electronics,55.2,3,Houston,26
+2024-04-07,1012,Gadget L,Electronics,122.03,4,Chicago,22
+2024-03-24,1001,Widget A,Electronics,156.3,4,Los Angeles,58
+2023-07-27,1012,Gadget L,Electronics,139.14,5,Chicago,40
+2024-04-09,1015,Gizmo O,Electronics,156.64,5,New York,59
+2024-03-21,1014,Doohickey N,Home Goods,267.16,2,New York,38
+2023-10-12,1006,Widget F,Electronics,117.19,4,Chicago,45
+2024-05-11,1012,Gadget L,Electronics,117.65,2,Houston,20
+2023-07-24,1004,Doohickey D,Home Goods,50.1,4,Los Angeles,63
+2024-06-13,1007,Gadget G,Toys,106.98,5,Chicago,29
+2024-02-16,1009,Doohickey I,Electronics,152.02,4,Chicago,64
+2023-11-15,1010,Gizmo J,Toys,150.68,4,Chicago,21
+2024-07-04,1015,Gizmo O,Electronics,154.44,4,New York,40
+2024-01-06,1010,Gizmo J,Toys,187.81,2,New York,62
+2024-01-24,1010,Gizmo J,Toys,238.25,1,Houston,45
+2023-10-18,1003,Thingamajig C,Home Goods,163.69,1,New York,50
+2023-10-12,1015,Gizmo O,Electronics,253.42,4,New York,60
+2023-10-09,1007,Gadget G,Toys,169.34,2,Chicago,23
+2024-06-20,1016,Widget P,Toys,296.8,3,Los Angeles,39
+2023-11-21,1004,Doohickey D,Home Goods,245.61,5,Chicago,24
+2023-07-26,1013,Thingamajig M,Toys,89.1,1,Los Angeles,51
+2024-05-26,1008,Thingamabob H,Home Goods,168.65,5,Houston,40
+2024-06-29,1016,Widget P,Toys,162.23,5,Houston,62
+2023-12-07,1004,Doohickey D,Home Goods,155.69,1,Houston,21
+2024-05-02,1012,Gadget L,Electronics,68.56,2,Los Angeles,40
+2023-09-11,1009,Doohickey I,Electronics,54.08,3,New York,56
+2023-11-02,1006,Widget F,Electronics,103.93,3,Los Angeles,64
+2023-09-01,1011,Widget K,Home Goods,180.77,4,Houston,31
+2024-02-01,1016,Widget P,Toys,104.32,5,New York,31
+2023-11-11,1013,Thingamajig M,Toys,285.05,5,New York,41
+2024-01-22,1015,Gizmo O,Electronics,201.25,4,Houston,64
+2024-03-18,1015,Gizmo O,Electronics,168.89,1,Houston,64
+2023-10-24,1008,Thingamabob H,Home Goods,101.9,1,Chicago,50
+2023-11-30,1015,Gizmo O,Electronics,56.81,1,New York,35
+2023-11-11,1016,Widget P,Toys,86.43,4,Los Angeles,43
+2023-08-06,1010,Gizmo J,Toys,56.1,1,New York,41
+2024-04-14,1008,Thingamabob H,Home Goods,186.17,3,Chicago,49
+2023-08-11,1002,Gadget B,Electronics,213.92,1,Chicago,42
+2024-03-27,1015,Gizmo O,Electronics,264.48,3,Houston,52
+2024-04-01,1012,Gadget L,Electronics,111.58,4,Chicago,28
+2023-10-08,1011,Widget K,Home Goods,294.6,1,Los Angeles,32
+2023-08-13,1002,Gadget B,Electronics,135.01,3,New York,31
+2023-10-01,1007,Gadget G,Toys,105.18,4,Chicago,40
+2023-09-16,1014,Doohickey N,Home Goods,219.38,4,Chicago,37
+2024-03-20,1014,Doohickey N,Home Goods,203.98,4,New York,56
+2023-12-11,1012,Gadget L,Electronics,83.92,4,Los Angeles,46
+2024-07-03,1003,Thingamajig C,Home Goods,71.08,1,New York,37
+2023-09-24,1004,Doohickey D,Home Goods,86.94,4,Houston,50
+2024-01-18,1007,Gadget G,Toys,275.98,5,New York,63
+2024-01-09,1008,Thingamabob H,Home Goods,131.47,5,Houston,47
+2024-02-15,1001,Widget A,Electronics,111.76,1,Houston,53
+2024-05-08,1013,Thingamajig M,Toys,293.52,1,Houston,21
+2024-06-07,1004,Doohickey D,Home Goods,189.19,4,Chicago,51
+2023-12-11,1014,Doohickey N,Home Goods,77.53,1,Houston,35
+2024-01-09,1007,Gadget G,Toys,201.4,4,New York,32
+2024-07-07,1009,Doohickey I,Electronics,141.86,3,Chicago,38
+2024-02-16,1008,Thingamabob H,Home Goods,73.14,4,Houston,37
+2024-01-24,1007,Gadget G,Toys,87.65,1,Los Angeles,35
+2024-03-25,1010,Gizmo J,Toys,257.27,1,Chicago,23
+2024-05-09,1013,Thingamajig M,Toys,249.41,4,Chicago,26
+2023-09-11,1011,Widget K,Home Goods,269.42,4,Los Angeles,28
+2024-06-16,1008,Thingamabob H,Home Goods,170.71,3,Chicago,65
+2023-12-23,1007,Gadget G,Toys,148.67,5,Houston,63
+2024-06-06,1002,Gadget B,Electronics,167.43,2,Chicago,60
+2024-01-26,1007,Gadget G,Toys,147.57,2,Chicago,62
+2024-01-06,1006,Widget F,Electronics,145.08,2,Los Angeles,42
+2024-05-19,1007,Gadget G,Toys,82.91,4,New York,45
+2023-08-27,1010,Gizmo J,Toys,183.08,5,Houston,40
+2024-03-21,1010,Gizmo J,Toys,123.16,2,Los Angeles,28
+2023-10-09,1012,Gadget L,Electronics,222.78,5,Chicago,38
+2023-10-16,1007,Gadget G,Toys,126.44,3,Los Angeles,31
+2024-04-06,1008,Thingamabob H,Home Goods,273.94,5,Houston,30
+2023-07-29,1004,Doohickey D,Home Goods,83.48,1,Los Angeles,63
+2024-05-19,1012,Gadget L,Electronics,195.49,1,Houston,37
+2024-01-13,1013,Thingamajig M,Toys,64.75,3,New York,57
+2024-04-04,1014,Doohickey N,Home Goods,223.11,5,Los Angeles,24
+2024-03-24,1009,Doohickey I,Electronics,80.23,3,Chicago,18
+2024-04-17,1005,Gizmo E,Toys,83.35,1,New York,65
+2023-08-18,1004,Doohickey D,Home Goods,181.98,4,Houston,63
+2024-05-03,1006,Widget F,Electronics,259.78,2,New York,23
+2024-03-12,1008,Thingamabob H,Home Goods,71.59,5,Houston,18
+2024-06-28,1009,Doohickey I,Electronics,68.19,2,Los Angeles,52
+2023-12-19,1007,Gadget G,Toys,179.88,5,Chicago,36
+2024-04-04,1016,Widget P,Toys,123.77,3,Houston,47
+2024-06-21,1008,Thingamabob H,Home Goods,149.23,1,Los Angeles,34
+2023-07-23,1004,Doohickey D,Home Goods,108.08,2,Los Angeles,62
+2023-08-08,1010,Gizmo J,Toys,121.51,2,Chicago,47
+2023-10-13,1006,Widget F,Electronics,50.27,4,Los Angeles,20
+2024-02-21,1006,Widget F,Electronics,250.12,3,Chicago,56
+2023-07-17,1008,Thingamabob H,Home Goods,159.4,2,New York,60
+2023-11-16,1009,Doohickey I,Electronics,157.14,3,Houston,37
+2023-12-13,1007,Gadget G,Toys,120.95,3,New York,19
+2023-08-08,1007,Gadget G,Toys,95.07,4,Los Angeles,44
+2024-06-25,1009,Doohickey I,Electronics,278.34,5,Chicago,57
+2024-02-23,1010,Gizmo J,Toys,124.98,3,Los Angeles,27
+2023-11-20,1004,Doohickey D,Home Goods,62.14,1,Houston,19
+2023-08-08,1007,Gadget G,Toys,73.66,1,Chicago,42
+2024-01-17,1010,Gizmo J,Toys,283.39,3,New York,34
+2024-04-01,1012,Gadget L,Electronics,177.14,3,New York,49
+2024-03-16,1008,Thingamabob H,Home Goods,183.67,4,Los Angeles,35
+2024-01-19,1006,Widget F,Electronics,95.21,1,Los Angeles,19
+2023-07-16,1005,Gizmo E,Toys,122.86,2,Los Angeles,55
+2024-04-29,1004,Doohickey D,Home Goods,88.08,2,Chicago,22
+2024-01-06,1005,Gizmo E,Toys,243.16,5,Chicago,42
+2023-12-01,1009,Doohickey I,Electronics,221.22,4,Chicago,47
+2023-11-15,1002,Gadget B,Electronics,172.52,5,Houston,40
+2023-08-09,1003,Thingamajig C,Home Goods,293.81,1,Los Angeles,27
+2024-01-28,1011,Widget K,Home Goods,223.27,5,New York,29
+2024-07-06,1002,Gadget B,Electronics,120.3,4,Los Angeles,28
+2024-01-27,1002,Gadget B,Electronics,166.49,5,Houston,39
+2024-05-27,1010,Gizmo J,Toys,93.84,4,Los Angeles,33
+2024-06-02,1006,Widget F,Electronics,145.48,5,Los Angeles,47
+2024-03-08,1005,Gizmo E,Toys,104.94,3,New York,55
+2024-01-04,1003,Thingamajig C,Home Goods,71.81,4,Houston,58
+2024-05-15,1014,Doohickey N,Home Goods,72.33,3,Chicago,48
+2023-08-11,1005,Gizmo E,Toys,225.2,3,Chicago,46
+2024-03-18,1007,Gadget G,Toys,274.83,1,Chicago,50
+2024-02-19,1002,Gadget B,Electronics,165.66,5,Chicago,35
+2023-07-23,1002,Gadget B,Electronics,89.58,5,Chicago,57
+2024-03-31,1012,Gadget L,Electronics,211.84,5,Houston,48
+2023-12-04,1004,Doohickey D,Home Goods,281.92,5,New York,28
+2023-08-31,1015,Gizmo O,Electronics,206.8,4,Los Angeles,28
+2024-02-16,1013,Thingamajig M,Toys,215.83,4,Chicago,49
+2024-04-30,1016,Widget P,Toys,161.01,3,Chicago,26
+2024-04-16,1014,Doohickey N,Home Goods,220.11,1,Los Angeles,19
+2024-06-15,1014,Doohickey N,Home Goods,228.89,5,Los Angeles,42
+2023-11-21,1016,Widget P,Toys,232.77,4,Chicago,55
+2023-08-13,1002,Gadget B,Electronics,288.06,1,Chicago,37
+2023-12-18,1003,Thingamajig C,Home Goods,193.88,4,New York,63
+2023-12-27,1015,Gizmo O,Electronics,143.37,5,Chicago,52
+2023-09-17,1002,Gadget B,Electronics,230.54,2,New York,32
+2024-01-26,1010,Gizmo J,Toys,241.29,1,New York,50
+2024-03-17,1002,Gadget B,Electronics,189.37,4,Chicago,25
+2023-08-08,1001,Widget A,Electronics,217.29,3,Chicago,63
+2024-04-20,1016,Widget P,Toys,295.54,1,Chicago,32
+2023-11-11,1004,Doohickey D,Home Goods,236.43,3,New York,39
+2023-07-31,1009,Doohickey I,Electronics,51.73,3,Houston,46
+2024-06-18,1003,Thingamajig C,Home Goods,157.36,4,New York,32
+2023-08-17,1015,Gizmo O,Electronics,142.82,4,New York,41
+2024-04-29,1002,Gadget B,Electronics,58.73,5,Chicago,33
+2024-04-26,1013,Thingamajig M,Toys,266.58,1,Chicago,26
+2023-12-15,1014,Doohickey N,Home Goods,268.52,2,Houston,45
+2023-11-28,1013,Thingamajig M,Toys,153.89,2,Los Angeles,31
+2023-11-18,1012,Gadget L,Electronics,199.71,5,Houston,20
+2024-05-31,1005,Gizmo E,Toys,198.04,4,Los Angeles,46
+2024-06-18,1012,Gadget L,Electronics,254.57,5,Los Angeles,57
+2023-10-12,1010,Gizmo J,Toys,250.82,1,New York,38
+2023-10-02,1015,Gizmo O,Electronics,130.11,2,Chicago,41
+2023-12-07,1005,Gizmo E,Toys,273.82,5,New York,33
+2024-05-09,1001,Widget A,Electronics,215.2,5,Houston,46
+2024-01-03,1001,Widget A,Electronics,96.11,5,Houston,36
+2024-07-09,1003,Thingamajig C,Home Goods,230.51,4,New York,46
+2024-02-15,1015,Gizmo O,Electronics,89.36,4,Los Angeles,46
+2023-08-12,1010,Gizmo J,Toys,186.24,1,New York,38
+2024-02-20,1001,Widget A,Electronics,80.24,4,New York,35
+2023-09-02,1013,Thingamajig M,Toys,259.22,5,New York,63
+2023-09-26,1016,Widget P,Toys,137.87,3,Houston,43
+2023-08-26,1010,Gizmo J,Toys,157.76,1,Houston,20
+2023-11-30,1016,Widget P,Toys,218.42,3,Houston,51
+2024-05-16,1013,Thingamajig M,Toys,236.91,1,New York,56
+2024-06-22,1010,Gizmo J,Toys,275.99,4,Los Angeles,38
+2023-09-18,1005,Gizmo E,Toys,50.38,1,Houston,44
+2024-06-13,1010,Gizmo J,Toys,91.27,1,Los Angeles,34
+2024-01-30,1007,Gadget G,Toys,220.45,5,Chicago,61
+2024-03-13,1002,Gadget B,Electronics,261.32,5,Los Angeles,27
+2023-09-02,1013,Thingamajig M,Toys,168.2,3,Chicago,64
+2023-12-25,1001,Widget A,Electronics,199.59,3,New York,42
+2024-01-29,1005,Gizmo E,Toys,153.69,3,New York,54
+2024-04-20,1011,Widget K,Home Goods,273.23,2,Los Angeles,64
+2023-10-16,1009,Doohickey I,Electronics,60.37,1,Houston,45
+2023-12-27,1012,Gadget L,Electronics,270.93,4,Houston,65
+2023-11-28,1010,Gizmo J,Toys,264.9,2,Houston,20
+2024-04-25,1007,Gadget G,Toys,214.17,3,Chicago,19
+2024-04-01,1010,Gizmo J,Toys,218.01,2,New York,31
+2023-09-27,1003,Thingamajig C,Home Goods,160.56,1,Chicago,47
+2023-09-12,1014,Doohickey N,Home Goods,277.01,2,Chicago,64
+2024-06-17,1001,Widget A,Electronics,120.25,4,Los Angeles,62
+2024-01-06,1010,Gizmo J,Toys,164.42,1,New York,22
+2023-12-15,1007,Gadget G,Toys,295.93,4,Houston,32
+2023-12-14,1012,Gadget L,Electronics,99.4,4,Chicago,19
+2024-01-27,1005,Gizmo E,Toys,226.41,3,Houston,46
+2024-06-16,1001,Widget A,Electronics,286.07,1,New York,39
+2024-06-12,1009,Doohickey I,Electronics,201.85,3,Chicago,47
+2024-01-16,1014,Doohickey N,Home Goods,249.37,3,Los Angeles,20
+2023-12-05,1001,Widget A,Electronics,189.07,1,Chicago,27
+2023-10-26,1004,Doohickey D,Home Goods,241.81,5,Chicago,52
+2023-12-06,1013,Thingamajig M,Toys,176.27,4,Houston,38
+2024-02-15,1015,Gizmo O,Electronics,190.72,5,New York,22
+2023-08-24,1002,Gadget B,Electronics,278.81,3,Los Angeles,38
+2023-08-08,1012,Gadget L,Electronics,184.32,2,Chicago,49
+2024-03-27,1014,Doohickey N,Home Goods,120.69,5,Chicago,19
+2024-02-04,1006,Widget F,Electronics,107.07,1,New York,60
+2024-04-02,1013,Thingamajig M,Toys,70.93,3,New York,64
+2024-05-28,1010,Gizmo J,Toys,82.96,1,Houston,37
+2023-12-25,1016,Widget P,Toys,73.17,5,Los Angeles,38
+2023-09-17,1010,Gizmo J,Toys,81.11,4,Los Angeles,56
+2023-10-23,1016,Widget P,Toys,276.64,2,Chicago,42
+2024-02-17,1007,Gadget G,Toys,88.37,2,Los Angeles,50
+2023-12-09,1011,Widget K,Home Goods,145.35,3,New York,27
+2023-08-03,1010,Gizmo J,Toys,181.61,1,Los Angeles,46
+2024-04-08,1001,Widget A,Electronics,204.5,2,Los Angeles,21
+2024-04-19,1014,Doohickey N,Home Goods,276.34,5,Chicago,34
+2024-01-30,1008,Thingamabob H,Home Goods,197.83,4,Houston,48
+2023-08-07,1005,Gizmo E,Toys,236.8,4,Chicago,57
+2023-11-24,1007,Gadget G,Toys,295.79,4,Houston,42
+2023-11-02,1010,Gizmo J,Toys,206.55,1,Los Angeles,57
+2023-09-11,1003,Thingamajig C,Home Goods,251.32,4,Houston,38
+2023-10-19,1012,Gadget L,Electronics,81.67,2,Chicago,43
+2024-02-21,1010,Gizmo J,Toys,147.36,4,Los Angeles,35
+2023-10-19,1009,Doohickey I,Electronics,74.63,1,Los Angeles,52
+2024-03-27,1014,Doohickey N,Home Goods,250.05,5,Los Angeles,53
+2023-09-21,1005,Gizmo E,Toys,180.51,4,Houston,54
+2023-10-29,1001,Widget A,Electronics,275.42,2,Los Angeles,26
+2024-01-02,1016,Widget P,Toys,67.55,3,Houston,22
+2024-03-26,1004,Doohickey D,Home Goods,183.27,3,Houston,35
+2023-08-21,1007,Gadget G,Toys,278.79,1,Los Angeles,64
+2024-03-29,1005,Gizmo E,Toys,95.84,1,New York,26
+2024-04-21,1002,Gadget B,Electronics,285.19,5,New York,51
+2023-11-12,1013,Thingamajig M,Toys,180.01,4,Chicago,62
+2023-10-20,1010,Gizmo J,Toys,62.08,1,New York,39
+2024-05-11,1011,Widget K,Home Goods,196.92,5,Los Angeles,40
+2023-12-25,1005,Gizmo E,Toys,186.66,1,Chicago,22
+2024-05-07,1009,Doohickey I,Electronics,200.66,5,Chicago,38
+2024-04-12,1014,Doohickey N,Home Goods,190.11,5,Chicago,34
+2024-01-31,1010,Gizmo J,Toys,211.49,3,Houston,33
+2023-09-29,1001,Widget A,Electronics,186.13,5,Los Angeles,29
+2023-08-17,1014,Doohickey N,Home Goods,183.08,1,Chicago,56
+2023-07-31,1015,Gizmo O,Electronics,236.12,5,Los Angeles,32
+2024-04-28,1010,Gizmo J,Toys,108.87,3,New York,44
+2023-07-20,1009,Doohickey I,Electronics,159.34,1,Los Angeles,33
+2024-04-09,1011,Widget K,Home Goods,207.3,4,Chicago,24
+2024-06-18,1006,Widget F,Electronics,113.08,1,Houston,18
+2024-03-05,1002,Gadget B,Electronics,293.36,4,New York,42
+2023-12-03,1011,Widget K,Home Goods,51.41,5,Chicago,59
+2024-05-13,1014,Doohickey N,Home Goods,199.91,4,Chicago,40
+2023-08-17,1005,Gizmo E,Toys,163.46,5,New York,65
+2024-01-31,1012,Gadget L,Electronics,202.7,5,Chicago,51
+2024-03-25,1009,Doohickey I,Electronics,134.81,1,New York,27
+2024-06-04,1016,Widget P,Toys,266.27,2,Los Angeles,21
+2024-06-09,1015,Gizmo O,Electronics,147.48,1,Houston,39
+2024-07-08,1015,Gizmo O,Electronics,165.77,2,Los Angeles,49
+2024-03-05,1001,Widget A,Electronics,142.97,5,Houston,30
+2023-12-03,1016,Widget P,Toys,278.27,4,Chicago,46
+2023-10-21,1009,Doohickey I,Electronics,220.1,2,Los Angeles,27
+2024-03-12,1007,Gadget G,Toys,294.27,2,Chicago,45
+2024-06-25,1013,Thingamajig M,Toys,256.96,5,Los Angeles,44
+2023-10-15,1014,Doohickey N,Home Goods,112.01,3,Houston,55
+2024-02-10,1007,Gadget G,Toys,57.49,5,Houston,38
+2023-09-21,1015,Gizmo O,Electronics,277.63,1,Los Angeles,53
+2023-10-27,1013,Thingamajig M,Toys,57.58,5,Houston,21
+2023-09-15,1004,Doohickey D,Home Goods,176.25,2,Houston,44
+2024-03-04,1002,Gadget B,Electronics,258.64,5,Los Angeles,23
+2023-08-25,1006,Widget F,Electronics,141.2,5,Los Angeles,43
+2023-08-28,1002,Gadget B,Electronics,289.42,1,New York,29
+2024-06-07,1011,Widget K,Home Goods,166.52,1,Chicago,64
+2023-08-06,1001,Widget A,Electronics,223.88,5,Chicago,50
+2024-06-18,1005,Gizmo E,Toys,281.48,5,Los Angeles,27
+2023-12-08,1010,Gizmo J,Toys,145.77,2,Chicago,33
+2023-12-17,1014,Doohickey N,Home Goods,213.89,4,Houston,39
+2024-02-14,1009,Doohickey I,Electronics,217.91,3,Chicago,45
+2024-05-01,1008,Thingamabob H,Home Goods,230.02,4,Houston,59
+2024-02-17,1013,Thingamajig M,Toys,162.68,5,Chicago,52
+2023-07-15,1012,Gadget L,Electronics,218.45,5,New York,42
+2023-10-23,1013,Thingamajig M,Toys,235.24,2,New York,37
+2023-10-03,1008,Thingamabob H,Home Goods,58.6,1,Houston,27
+2023-07-26,1003,Thingamajig C,Home Goods,161.98,3,Chicago,53
+2023-09-27,1004,Doohickey D,Home Goods,61.92,3,Houston,27
+2023-07-13,1011,Widget K,Home Goods,162.45,3,Chicago,50
+2023-12-25,1009,Doohickey I,Electronics,272.86,2,New York,47
+2024-02-16,1008,Thingamabob H,Home Goods,161.59,5,Houston,60
+2023-09-26,1012,Gadget L,Electronics,194.46,4,Chicago,28
+2023-12-07,1006,Widget F,Electronics,166.93,3,New York,29
+2024-05-30,1003,Thingamajig C,Home Goods,82.93,1,New York,48
+2023-07-22,1008,Thingamabob H,Home Goods,147.49,2,Los Angeles,63
+2023-10-28,1015,Gizmo O,Electronics,225.22,4,Houston,20
+2023-08-24,1011,Widget K,Home Goods,274.82,2,New York,46
+2023-09-16,1012,Gadget L,Electronics,299.75,1,New York,26
+2024-01-21,1013,Thingamajig M,Toys,263.97,4,Chicago,20
+2024-02-29,1011,Widget K,Home Goods,176.77,3,Houston,56
+2023-10-10,1008,Thingamabob H,Home Goods,213.07,2,Houston,65
+2023-09-30,1012,Gadget L,Electronics,189.49,4,Houston,61
+2024-03-05,1012,Gadget L,Electronics,208.71,5,Houston,57
+2024-01-09,1003,Thingamajig C,Home Goods,267.31,1,New York,46
+2023-12-02,1010,Gizmo J,Toys,98.26,2,Chicago,44
+2024-07-03,1010,Gizmo J,Toys,290.95,1,New York,64
+2024-02-27,1011,Widget K,Home Goods,96.11,2,Los Angeles,26
+2024-02-13,1014,Doohickey N,Home Goods,297.88,2,Los Angeles,36
+2024-03-05,1006,Widget F,Electronics,63.04,3,Houston,49
+2024-04-12,1012,Gadget L,Electronics,201.31,1,New York,59
+2024-01-08,1003,Thingamajig C,Home Goods,192.86,3,Los Angeles,55
+2024-05-22,1008,Thingamabob H,Home Goods,118.68,1,New York,43
+2023-10-22,1009,Doohickey I,Electronics,92.04,3,Chicago,59
+2024-04-10,1016,Widget P,Toys,74.11,2,New York,51
+2023-11-27,1015,Gizmo O,Electronics,176.61,3,Houston,62
+2023-11-24,1001,Widget A,Electronics,291.72,4,New York,24
+2024-01-12,1001,Widget A,Electronics,258.94,2,Houston,19
+2024-05-29,1015,Gizmo O,Electronics,298.26,4,New York,46
+2023-09-05,1003,Thingamajig C,Home Goods,92.94,5,Los Angeles,25
+2024-01-10,1014,Doohickey N,Home Goods,106.9,3,Chicago,64
+2023-10-01,1011,Widget K,Home Goods,219.15,5,Los Angeles,41
+2023-09-08,1003,Thingamajig C,Home Goods,109.09,4,New York,38
+2024-03-24,1003,Thingamajig C,Home Goods,206.82,2,Chicago,62
+2023-10-21,1001,Widget A,Electronics,81.05,5,Los Angeles,64
+2023-09-19,1002,Gadget B,Electronics,183.3,2,Houston,25
+2024-02-03,1003,Thingamajig C,Home Goods,127.02,4,New York,44
+2024-04-05,1012,Gadget L,Electronics,267.67,1,Chicago,32
+2024-03-01,1005,Gizmo E,Toys,99.62,2,Houston,38
+2024-07-01,1010,Gizmo J,Toys,186.88,3,Chicago,50
+2023-09-03,1005,Gizmo E,Toys,110.37,3,Houston,43
+2023-12-13,1004,Doohickey D,Home Goods,67.25,3,Houston,35
+2024-04-22,1013,Thingamajig M,Toys,166.89,3,Chicago,35
+2023-12-16,1001,Widget A,Electronics,93.49,4,Los Angeles,35
